@@ -1,22 +1,28 @@
 ### Hi there 👋
+<div>
+    <div align=left>
+    <br>
+    <p>
+        <strong>
+            I'm a Software Engineer with a master's degree in Applied Computing, passionate about applying my knowledge to solve challenging problems. With experience in Back-End, Front-End, and machine learning development, I am also a Freelancer.<br><br>
+            
+            My areas of expertise include ReactJS, React Native, and Python. I love designing efficient algorithms and implementing robust data structures.<br><br>
 
-<div align="center">
-  <a href="https://github.com/Renannr">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Renannr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renannr&layout=compact&langs_count=7&theme=dark"/>
+            I am constantly improving my problem-solving skills to offer innovative solutions.<br><br>
+        </strong>
+    </p>
+    <ul>
+        <li>🌱 <b>I’m currently learning</b>: Machine Learning and Neural Network.</li>
+        <li>🎯 <b>I’m currently focusing on</b>: Learning python and Tensorflow. </li>
+        <li>🤔 <b>I’m currently open for </b>: Freelance project.</li>
+    </ul>
+    </div>
+
+    <div align="center">
+      <a href="https://github.com/Renannr">
+      <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Renannr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+      <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renannr&layout=compact&langs_count=7&theme=dark"/>
+    </div>
 </div>
 
-<!--
-**Renannr/Renannr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
