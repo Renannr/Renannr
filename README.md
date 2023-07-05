@@ -4,11 +4,11 @@
     <br>
     <p>
         <strong>
-            I'm a Software Engineer with a master's degree in Applied Computing, passionate about applying my knowledge to solve challenging problems. With experience in Back-End, Front-End, and machine learning development, I am also a Freelancer.<br><br>
+            I'm a Software Engineer with a master's degree in Applied Computing, passionate about applying my knowledge to solve challenging problems. With experience in Back-End, Front-End, and machine learning development, I am also a Freelancer.
             
-            My areas of expertise include ReactJS, React Native, and Python. I love designing efficient algorithms and implementing robust data structures.<br><br>
+            My areas of expertise include ReactJS, React Native, and Python. I love designing efficient algorithms and implementing robust data structures.
 
-            I am constantly improving my problem-solving skills to offer innovative solutions.<br><br>
+            I am constantly improving my problem-solving skills to offer innovative solutions.
         </strong>
     </p>
     <ul>
