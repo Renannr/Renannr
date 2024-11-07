@@ -8,8 +8,8 @@
             </strong>
         </p>
         <ul>
-            <li>🌱 <b>I’m currently learning</b>: Machine Learning and Neural Network.</li>
-            <li>🎯 <b>I’m currently focusing on</b>: Learning python and Tensorflow. </li>
+            <li>🌱 <b>I’m currently learning</b>: Flask and Django </li>
+            <li>🎯 <b>I’m currently focusing on</b>: Machine Learning and Neural Network. </li>
             <li>🤔 <b>I’m currently open for </b>: Freelance project.</li>
         </ul>
     </div>
