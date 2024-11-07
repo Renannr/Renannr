@@ -15,7 +15,7 @@
         </ul>
         <h2>Technical Skills 🛠️</h2>
         <ul>
-            <li><strong>Languages & Frameworks:</strong> Python, Node.js, React.js, React Native, Flask, Django.</li>
+            <li><strong>Languages:</strong> Python, Node.js, React.js, React Native.</li>
             <li><strong>Machine Learning Tools:</strong> Pandas, NumPy, Keras, TensorFlow, Sklearn.</li>
             <li><strong>Experience with:</strong> Linux, Git.</li>
         </ul>
