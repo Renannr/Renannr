@@ -19,6 +19,17 @@
             <li><strong>Machine Learning Tools:</strong> Pandas, NumPy, Keras, TensorFlow, Sklearn.</li>
             <li><strong>Experience with:</strong> Linux, Git.</li>
         </ul>
+        <h2>Soft Skills </h2>
+        <ul>
+            <li><strong>Continuous Learning:</strong> Passionate about learning and improving, whether through courses,
+                projects, or staying updated with industry trends.</li>
+            <li><strong>Problem-Solving:</strong> Analytical and focused, I enjoy breaking down complex issues and
+                finding effective solutions.</li>
+            <li><strong>Team Collaboration:</strong> Cooperative and communicative, with experience working in
+                cross-functional teams to drive project success.</li>
+            <li><strong>Attention to Detail:</strong> Focused on quality and accuracy, ensuring that code and
+                documentation are clear and precise.</li>
+        </ul>
         <h2>Currently Learning </h2>
         <ul>
             <li>Currently learning <strong>Flask</strong> and <strong>Django</strong> to expand my expertise in Python
