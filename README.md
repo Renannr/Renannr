@@ -2,8 +2,8 @@
     <div align=left>
         <p>
             <strong>
-                I'm a Software Engineer with a master's degree in Applied Computing, passionate about applying my knowledge to solve problems. With experience in Back-End, Front-End, and Machine Learning development, I am also a Freelancer.<br><br>
-                My areas of expertise include Python (numpy, pandas, keras) , NodeJS (Express, Sequelize, Jest), ReactJS and React Native. I love designing efficient algorithms and implementing data structures.<br><br>
+                I'm a Software Engineer with a master's degree in Applied Computing, passionate about applying my knowledge to solve problems. With experience in Back-End, Front-End, and Machine Learning, I am also a Freelancer.<br><br>
+                My areas of expertise include Python (numpy, pandas, keras) , NodeJS (Express, Sequelize, JWT), ReactJS and React Native.<br><br>
                 I am constantly improving my problem-solving skills to offer innovative solutions.<br><br>
             </strong>
         </p>
