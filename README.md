@@ -7,8 +7,8 @@
         <ul>
             <li><strong>Experienced in:</strong> Node.js (Express,
                 Sequelize, JWT), React.js, React Native and Python (Pandas, NumPy, Keras, TensorFlow).</li>
-            <li>As a researcher, I developed an <strong>evolutionary algorithm with neural networks</strong> and a
-                <strong>feature selection method</strong> to optimize the accuracy of soil health indicator predictions.
+            <li>As a researcher, I developed an evolutionary algorithm with neural networksand a
+                feature selection method to optimize the accuracy of soil health indicator predictions.
             </li>
             <li><strong>Freelance Projects:</strong> I developed Node.js APIs and React Native applications for
                 companies in the agriculture and experiment management sectors.</li>
