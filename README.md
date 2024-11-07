@@ -1,35 +1,35 @@
 <div>
     <div align=left>
-        <h2>About Me 👨‍💻</h2>
+        <h2>About Me</h2>
         <p>I'm a software engineer with a master's degree in Applied Computing, passionate about using programming to solve problems.
             I have experience in Back-End and Mobile development, as well as expertise in Machine
             Learning.</p>
         <ul>
-            <li>🔎 <strong>Experienced in:</strong> Node.js (Express,
+            <li><strong>Experienced in:</strong> Node.js (Express,
                 Sequelize, JWT), React.js, React Native and Python (Pandas, NumPy, Keras, TensorFlow).</li>
-            <li>🎓 As a researcher, I developed an <strong>evolutionary algorithm with neural networks</strong> and a
+            <li>As a researcher, I developed an <strong>evolutionary algorithm with neural networks</strong> and a
                 <strong>feature selection method</strong> to optimize the accuracy of soil health indicator predictions.
             </li>
-            <li>🚀 <strong>Freelance Projects:</strong> I developed Node.js APIs and React Native applications for
+            <li><strong>Freelance Projects:</strong> I developed Node.js APIs and React Native applications for
                 companies in the agriculture and experiment management sectors.</li>
         </ul>
-        <h2>Technical Skills 🛠️</h2>
+        <h2>Technical Skills</h2>
         <ul>
             <li><strong>Languages:</strong> Python, Node.js, React.js, React Native.</li>
             <li><strong>Machine Learning Tools:</strong> Pandas, NumPy, Keras, TensorFlow, Sklearn.</li>
             <li><strong>Experience with:</strong> Linux, Git.</li>
         </ul>
-        <h2>Currently Learning 🌱</h2>
+        <h2>Currently Learning </h2>
         <ul>
             <li>Currently learning <strong>Flask</strong> and <strong>Django</strong> to expand my expertise in Python
                 frameworks.</li>
             <li>Focused on improving skills in <strong>Machine Learning</strong> and <strong>Neural Networks</strong>.
             </li>
         </ul>
-        <h2>Availability 👋</h2>
+        <h2>Availability </h2>
         <ul>
-            <li>📬 Open to <strong>freelance opportunities</strong> and project collaborations.</li>
-            <li>👨‍💻 Interested in opportunities as a <strong>Full Stack</strong> or <strong>Mobile Developer</strong>
+            <li>Open to <strong>freelance opportunities</strong> and project collaborations.</li>
+            <li>Interested in opportunities as a <strong>Full Stack</strong> or <strong>Mobile Developer</strong>
                 (React Native).</li>
         </ul>
     </div>
