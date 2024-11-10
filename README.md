@@ -5,7 +5,7 @@
             I have experience in Back-End and Mobile development, as well as expertise in Machine
             Learning.</p>
         <ul>
-            <li><strong>Experienced in:</strong> Node.js (Express,
+            <li><strong>Experience:</strong> Node.js (Express,
                 Sequelize, JWT), React.js, React Native and Python (Pandas, NumPy, Keras, TensorFlow).</li>
             <li>As a researcher, I developed an evolutionary algorithm with neural networks and a
                 feature selection method to optimize the accuracy of soil health indicator predictions.
