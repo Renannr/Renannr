@@ -40,7 +40,7 @@
         <h2>Availability </h2>
         <ul>
             <li>Open to <strong>freelance opportunities</strong> and project collaborations.</li>
-            <li>Interested in opportunities as a <strong>Full Stack</strong> or <strong>Mobile Developer</strong>
+            <li>Interested in opportunities as a BackEnd, Full Stack or <strong>Mobile Developer</strong>
                 (React Native).</li>
         </ul>
     </div>
