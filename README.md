@@ -34,7 +34,7 @@
         <ul>
             <li>Currently learning <strong>Flask</strong> and <strong>Django</strong> to expand my expertise in Python
                 frameworks.</li>
-            <li>Focused on improving skills in <strong>Machine Learning</strong> and <strong>Neural Networks</strong>.
+            <li>Focused on improving skills in <strong>React.JS</strong> and <strong>React-Native</strong>.
             </li>
         </ul>
         <h2>Availability </h2>
