@@ -15,9 +15,9 @@
         </ul>
         <h2>Technical Skills</h2>
         <ul>
-            <li><strong>Languages:</strong> Python, Node.js, React.js, React Native.</li>
+            <li><strong>Languages:</strong> Python, TypeScript, Node.js, React.js, React Native.</li>
             <li><strong>Machine Learning Tools:</strong> Pandas, NumPy, Keras, TensorFlow, Sklearn.</li>
-            <li><strong>Experience with:</strong> Linux, Git.</li>
+            <li><strong>Experience with:</strong> NestJS, NextJS, Linux, Git.</li>
         </ul>
         <h2>Soft Skills </h2>
         <ul>
