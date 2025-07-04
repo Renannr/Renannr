@@ -32,16 +32,13 @@
         </ul>
         <h2>Currently Learning </h2>
         <ul>
-            <li>Currently learning <strong>Flask</strong> and <strong>Django</strong> to expand my expertise in Python
-                frameworks.</li>
-            <li>Focused on improving skills in <strong>React.JS</strong> and <strong>React-Native</strong>.
+            <li>Currently deepening my knowledge in unstructured data processing using LlamaIndex, vector databases like Qdrant, and MCP.</li>
+            <li>Focused on improving my skills in React, Node.js, and Python.</strong>.
             </li>
         </ul>
         <h2>Availability </h2>
         <ul>
-            <li>Open to <strong>freelance opportunities</strong> and project collaborations.</li>
-            <li>Interested in opportunities as a BackEnd, Full Stack or <strong>Mobile Developer</strong>
-                (React Native).</li>
+            <li>-</li>
         </ul>
     </div>
     <h2></h2>
