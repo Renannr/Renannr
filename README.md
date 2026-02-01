@@ -19,8 +19,7 @@
         <ul>
             <li>AI agents that automate complex workflows and decision processes.</li>
             <li>LLM-powered systems with retrieval and reasoning capabilities.</li>
-            <li>Performance-optimized AI pipelines, reducing real-world agent response times from ~10s to ~2s.</li>
-            <li>Scalable APIs for data-driven and AI-driven applications.</li>
+            <li>Scalable APIs for AI-driven applications.</li>
         </ul>
         <h2>Research & Innovation</h2>
         <ul>
@@ -43,10 +42,8 @@
     </div>
     <div align="center">
         <a href="https://github.com/Renannr">
-            <img height="140em"
-                src="https://github-readme-stats.vercel.app/api?username=Renannr&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-            <img height="140em"
-                src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renannr&layout=compact&langs_count=7&theme=dark" />
+            <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Renannr&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+            <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renannr&layout=compact&langs_count=7&theme=dark" />
         </a>
     </div>
 </div>
