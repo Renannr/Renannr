@@ -6,7 +6,6 @@
             I design and build scalable back-end architectures while integrating machine learning and generative AI
             to solve real-world problems.
         </p>
-
         <h2>What I Work With</h2>
         <ul>
             <li><strong>AI & LLM Engineering:</strong> RAG pipelines, semantic search, embeddings, vector databases (Qdrant, pgvector), LLM orchestration, tool-based agents, LLM API integrations.</li>
@@ -16,7 +15,6 @@
             <li><strong>Machine Learning:</strong> TensorFlow, Scikit-learn, NumPy, Pandas, predictive modeling and feature engineering.</li>
             <li><strong>Cloud & DevOps:</strong> AWS (S3, EC2, Lambda), Docker, CI/CD, GitHub Actions, Linux.</li>
         </ul>
-
         <h2>What I Build</h2>
         <ul>
             <li>AI agents that automate complex workflows and decision processes.</li>
@@ -24,21 +22,18 @@
             <li>Performance-optimized AI pipelines, reducing real-world agent response times from ~10s to ~2s.</li>
             <li>Scalable APIs for data-driven and AI-driven applications.</li>
         </ul>
-
         <h2>Research & Innovation</h2>
         <ul>
             <li>Master’s degree in Applied Computing.</li>
             <li>Development of patented software in bioinformatics and agriculture.</li>
             <li>Research combining neural networks and evolutionary algorithms for predictive modeling.</li>
         </ul>
-
         <h2>Currently Exploring</h2>
         <ul>
             <li>Advanced LLM architectures and multi-agent orchestration.</li>
             <li>Evaluation, observability and reliability in AI systems.</li>
             <li>Scalable system design for AI-driven applications.</li>
         </ul>
-
         <h2>Open to</h2>
         <ul>
             <li>AI Engineering roles</li>
@@ -46,7 +41,6 @@
             <li>Collaborations on AI and developer tools projects</li>
         </ul>
     </div>
-
     <div align="center">
         <a href="https://github.com/Renannr">
             <img height="140em"
