@@ -1,52 +1,58 @@
 <div>
-    <div align=left>
+    <div align="left">
         <h2>About Me</h2>
-        <p>I'm a software engineer with a master's degree in Applied Computing, passionate about using programming to solve problems.
-            I have experience in Back-End and Mobile development, as well as expertise in Machine
-            Learning.</p>
+        <p>
+            I'm a Full-Stack Software Engineer with a strong focus on AI systems, LLM applications and intelligent agents.
+            I design and build scalable back-end architectures while integrating machine learning and generative AI
+            to solve real-world problems.
+        </p>
+
+        <h2>What I Work With</h2>
         <ul>
-            <li><strong>Experience:</strong> Node.js (Express,
-                Sequelize, JWT), React.js, React Native and Python (Pandas, NumPy, Keras, TensorFlow).</li>
-            <li>As a researcher, I developed an evolutionary algorithm with neural networks and a
-                feature selection method to optimize the accuracy of soil health indicator predictions.
-            </li>
-            <li><strong>Freelance Projects:</strong> I developed Node.js APIs and React Native applications for
-                companies in the agriculture and experiment management sectors.</li>
+            <li><strong>AI & LLM Engineering:</strong> RAG pipelines, semantic search, embeddings, vector databases (Qdrant, pgvector), LLM orchestration, tool-based agents, LLM API integrations.</li>
+            <li><strong>Backend Engineering:</strong> Node.js (Express, NestJS, Fastify), Python (FastAPI), REST APIs, authentication, scalable architectures.</li>
+            <li><strong>Databases & Messaging:</strong> MongoDB, PostgreSQL, MySQL, Redis, Elasticsearch, RabbitMQ.</li>
+            <li><strong>Frontend & Mobile:</strong> React, Next.js, React Native, modern UI patterns and API integration.</li>
+            <li><strong>Machine Learning:</strong> TensorFlow, Scikit-learn, NumPy, Pandas, predictive modeling and feature engineering.</li>
+            <li><strong>Cloud & DevOps:</strong> AWS (S3, EC2, Lambda), Docker, CI/CD, GitHub Actions, Linux.</li>
         </ul>
-        <h2>Technical Skills</h2>
+
+        <h2>What I Build</h2>
         <ul>
-            <li><strong>Languages:</strong> Python, TypeScript, Node.js, React.js, React Native.</li>
-            <li><strong>Machine Learning Tools:</strong> Pandas, NumPy, Keras, TensorFlow, Sklearn.</li>
-            <li><strong>Experience with:</strong> NestJS, NextJS, Linux, Git.</li>
+            <li>AI agents that automate complex workflows and decision processes.</li>
+            <li>LLM-powered systems with retrieval and reasoning capabilities.</li>
+            <li>Performance-optimized AI pipelines, reducing real-world agent response times from ~10s to ~2s.</li>
+            <li>Scalable APIs for data-driven and AI-driven applications.</li>
         </ul>
-        <h2>Soft Skills </h2>
+
+        <h2>Research & Innovation</h2>
         <ul>
-            <li><strong>Continuous Learning:</strong> Passionate about learning and improving, whether through courses,
-                projects, or staying updated with industry trends.</li>
-            <li><strong>Problem-Solving:</strong> Analytical and focused, I enjoy breaking down complex issues and
-                finding effective solutions.</li>
-            <li><strong>Team Collaboration:</strong> Cooperative and communicative, with experience working in
-                cross-functional teams to drive project success.</li>
-            <li><strong>Attention to Detail:</strong> Focused on quality and accuracy, ensuring that code and
-                documentation are clear and precise.</li>
+            <li>Master’s degree in Applied Computing.</li>
+            <li>Development of patented software in bioinformatics and agriculture.</li>
+            <li>Research combining neural networks and evolutionary algorithms for predictive modeling.</li>
         </ul>
-        <h2>Currently Learning </h2>
+
+        <h2>Currently Exploring</h2>
         <ul>
-            <li>Currently deepening my knowledge in unstructured data processing using LlamaIndex, vector databases like Qdrant, and MCP.</li>
-            <li>Focused on improving my skills in React, Node.js, and Python.</strong>.
-            </li>
+            <li>Advanced LLM architectures and multi-agent orchestration.</li>
+            <li>Evaluation, observability and reliability in AI systems.</li>
+            <li>Scalable system design for AI-driven applications.</li>
         </ul>
-        <h2>Availability </h2>
+
+        <h2>Open to</h2>
         <ul>
-            <li>-</li>
+            <li>AI Engineering roles</li>
+            <li>Backend or Full-Stack positions involving intelligent systems</li>
+            <li>Collaborations on AI and developer tools projects</li>
         </ul>
     </div>
-    <h2></h2>
+
     <div align="center">
         <a href="https://github.com/Renannr">
             <img height="140em"
                 src="https://github-readme-stats.vercel.app/api?username=Renannr&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
             <img height="140em"
                 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renannr&layout=compact&langs_count=7&theme=dark" />
+        </a>
     </div>
 </div>
