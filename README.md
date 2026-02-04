@@ -40,10 +40,12 @@
             <li>Collaborations on AI and developer tools projects</li>
         </ul>
     </div>
+    <h2></h2>
     <div align="center">
         <a href="https://github.com/Renannr">
-            <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Renannr&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-            <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renannr&layout=compact&langs_count=7&theme=dark" />
-        </a>
+            <img height="140em"
+                src="https://github-readme-stats.vercel.app/api?username=Renannr&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+            <img height="140em"
+                src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renannr&layout=compact&langs_count=7&theme=dark" />
     </div>
 </div>
